@@ -1,4 +1,4 @@
-# Real Time Whisper Transcription
+# Real Time Audio Transcription using whisperx
 
 ![Demo gif](demo.gif)
 
@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 in an environment of your choosing.
 
-Whisper also requires the command-line tool [`ffmpeg`](https://ffmpeg.org/) to be installed on your system, which is available from most package managers:
+Whisperx also requires the command-line tool [`ffmpeg`](https://ffmpeg.org/) to be installed on your system, which is available from most package managers:
 
 ```
 # on Ubuntu or Debian
